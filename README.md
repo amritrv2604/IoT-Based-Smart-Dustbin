@@ -38,8 +38,8 @@ Isolation and afterward reusing of waste materials is vital for a supportable so
 
 
 ## Circuit Diagram - Tinkercad
-https://github.com/amritrv2604/IoT-Based-Smart-Dustbin/blob/main/assets/Picture1.jpg?raw=true
+![Circuit](https://github.com/amritrv2604/IoT-Based-Smart-Dustbin/blob/main/assets/Picture1.jpg?raw=true)
 
 
 ## Hardware Diagram
-https://github.com/amritrv2604/IoT-Based-Smart-Dustbin/blob/main/assets/Picture2.jpg?raw=true
+![Hardware](https://github.com/amritrv2604/IoT-Based-Smart-Dustbin/blob/main/assets/Picture2.jpg?raw=true)
